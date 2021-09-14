@@ -1,2 +1,2 @@
-# olampic
+# olympics
 worldolampicgames
